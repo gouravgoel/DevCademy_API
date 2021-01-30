@@ -1,6 +1,9 @@
 # DevCademy API
-
 > Backend API for DevCademy application, which is a bootcamp directory website
+
+![](images/live-screenshot.JPG)
+
+![](images/live-screenshot2.JPG)
 
 ## Usage
 
@@ -33,7 +36,3 @@ node seeder -d
 # Import all data
 node seeder -i
 ```
-
-# Screenshot
-
-<img src="images/live-screenshot.jpeg">
