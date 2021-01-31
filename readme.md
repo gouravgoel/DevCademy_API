@@ -5,6 +5,10 @@
 
 ![](images/live-screenshot2.JPG)
 
+## Tech Stack
+
+NodeJS, ExpressJS, MongoDB, mongoose, bcryptjs, cookie-parser, cors, express-fileupload, express-mongo-sanitize, express-rate-limit, helmet, jsonwebtoken, node-geocoder, nodemailer, slugify, xss-clean
+
 ## Usage
 
 Rename "config/config.env.env" to "config/config.env" and update the values/settings to your own
